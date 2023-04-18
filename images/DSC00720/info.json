@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 77,
+    "height" : 102
+  }, {
+    "width" : 153,
+    "height" : 204
+  }, {
+    "width" : 306,
+    "height" : 408
+  }, {
+    "width" : 612,
+    "height" : 816
+  }, {
+    "width" : 1224,
+    "height" : 1632
+  }, {
+    "width" : 2448,
+    "height" : 3264
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2448,
+  "@id" : "https://marianaWest.github.io/IIIFWorkshop/images/DSC00720",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3264
+}
